@@ -19,3 +19,5 @@ cd backend && cdk deploy
 ```
 
 That is easy, right?
+
+[Link Landing Page Site](https://henrique990.github.io/landing-page/)
